@@ -1,0 +1,44 @@
+.mobile-cart{
+    position: relative;
+    p{
+        width: 16px;
+        height: 16px;
+        font-size: 12px;
+        border-radius: 7px;
+        position: absolute;
+        top: -20%;
+        left: 70%;
+    }
+}
+.menu{
+    li{
+        a:hover{
+            text-decoration: underline;
+        }
+    }
+}
+.subscribe{
+    background: no-repeat center url(../images/bg-footer.png);
+    background-size: cover;
+    height: 600px;
+    .subscribe_content{
+        margin-bottom: 112px;
+        h3{
+            color: #8D8D8D;
+            line-height: 48px;
+        }
+    }
+}
+.last{
+    .first{
+        P{
+            padding-top: 28px;
+        }
+    }
+    .second{
+        width: 263px;
+        li{
+            padding-top: 28px;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+.banner{
+    background: no-repeat center url(../images/index/banner.png);
+    background-size: cover;
+    height: 870px;
+}
+.capsule{
+    background: no-repeat center url(../images/index/7@2x.png);
+    background-size: cover;
+    position: relative;
+    .status{
+        position: absolute;
+        top: 50%;
+        left: 38%;
+    }
+}
